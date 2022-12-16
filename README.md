@@ -9,7 +9,7 @@ JavaScript <br>
 Tailwind CSS
 
 ## Back end <br>
-Express.js
+Express.js <br>
 Cloudinary <br>
 MongoDB <br>
 Mongoose <br>
