@@ -2,21 +2,22 @@
 A checklist to help legal teams address how to prepare for discovery, the types of discovery requests parties may use, and methods for handling confidential documents, and handling discovery disputes.
 
 # Key Technologies, Packages, and Gems
+
 ## Front end <br>
-DaisyUI
-JavaScript
+DaisyUI <br>
+JavaScript <br>
 Tailwind CSS
 
-##Back end <br>
+## Back end <br>
 Express.js
-Cloudinary
-MongoDB
-Mongoose
-Multer
-Node.js
+Cloudinary <br>
+MongoDB <br>
+Mongoose <br>
+Multer <br>
+Node.js <br>
 Passport
 
-# Core Features
+## Core Features
 
 Users will be able to prepare discovery requests for trial and convert lists into PDFs.
 
@@ -45,7 +46,7 @@ NPM Start
 
 This project is still in beta. The new feature will be to allow users to convert checklists into PDF format.
 
-##Demo
+## Demo
 
 <img width="1435" alt="prosecutorialchecklist" src="https://user-images.githubusercontent.com/100317017/208014249-cb51735f-ece9-4107-8786-add59afc837a.png">
 
